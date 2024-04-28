@@ -34,4 +34,10 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mohamedragababbas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRagabAbbas&layout=compact&theme=vision-friendly-dark height="220" alt="Top Languages graph"
 </div>
+
+
+
+
+
